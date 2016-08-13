@@ -1,18 +1,6 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
-  },
-  {
     "icon": "fa-twitter",
-    "link": ""
+    "link": "http://twitter.com/vienosnotes"
   },
-  {
-    "icon": "fa-linkedin",
-    "link": ""
-  },
-  {
-    "icon": "fa-stack-exchange",
-    "link": ""
-  }
 ]
