@@ -62,7 +62,7 @@ p.info a {
     display: inline-block;
 }
 .icon:hover {
-    color: rgba(255, 255, 255, 0.63);
+    color: rgba(114, 0, 0, 0.63);
     background: #FFAAAA;
 }
 .menu ul li {
@@ -71,7 +71,7 @@ p.info a {
 }
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
-    background: #FFAAAA;
+    background: #FFFFFF;
 }
 li.current-menu-item:before {
     content: "";
