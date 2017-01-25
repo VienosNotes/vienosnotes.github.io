@@ -82,6 +82,7 @@ li.current-menu-item:before {
     position: absolute;
     left: 9px;
     vertical-align: middle;
+    color: #720000;
     background: #720000;
 }
 .menu ul li a {
