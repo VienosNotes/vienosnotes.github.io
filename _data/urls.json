@@ -11,19 +11,19 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
-    "url": "/projects",
-    "icon": "fa-desktop"
+    "text": "Articles",
+    "url": "/articles/",
+    "icon": "fa-book"
   },
   {
-    "text": "Resume",
-    "url": "#",
-    "icon": "fa-graduation-cap",
+    "text": "Diary",
+    "url": "/articles/diary",
+    "icon": "fa-calendar",
     "layout": "post"
   },
   {
     "text": "Github",
-    "url": "",
+    "url": "https://github.com/VienosNotes",
     "icon": "fa-github"
   },
   {
