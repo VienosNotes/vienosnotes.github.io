@@ -50,12 +50,12 @@ p.info a {
     margin: 20px 0 0;
 }
 .icon {
-    background: rgba(255, 255, 255, 0.63);
+    background: white;/*rgba(255, 255, 255, 0.63);*/
     border-radius: 100%;
     text-align: center;
     line-height: 20px;
     font-size: 20px;
-    color: #009688;
+    color: #720000;
     padding: 5px;
     width: 30px;
     height: 30px;
@@ -71,7 +71,7 @@ p.info a {
 }
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
-    background: #007D72;
+    background: #FFAAAA;
 }
 li.current-menu-item:before {
     content: "";
@@ -81,7 +81,7 @@ li.current-menu-item:before {
     position: absolute;
     left: 9px;
     vertical-align: middle;
-    background: #B8CA28;
+    background: #720000;
 }
 .menu ul li a {
     font-size: 15px;
