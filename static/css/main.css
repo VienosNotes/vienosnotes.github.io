@@ -77,12 +77,11 @@ p.info a {
 li.current-menu-item:before {
     content: "";
     display: inline-block;
-    height: 55px;
+    height: 56px;
     width: 5px;
     position: absolute;
     left: 9px;
     vertical-align: middle;
-    color: #720000;
     background: #FFAAAA;
 }
 .menu ul li a {
