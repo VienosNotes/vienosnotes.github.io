@@ -12,12 +12,12 @@
   },
   {
     "text": "Articles",
-    "url": "/articles/",
+    "url": "/articles.html",
     "icon": "fa-book"
   },
   {
     "text": "Diary",
-    "url": "/articles/diary",
+    "url": "/diary.html",
     "icon": "fa-calendar",
     "layout": "post"
   },
