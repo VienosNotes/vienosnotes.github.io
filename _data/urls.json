@@ -3,7 +3,6 @@
     "text": "Home",
     "url": "/",
     "icon": "fa-home",
-    "layout": "post"
   },
   {
     "text": "About",
@@ -12,24 +11,31 @@
   },
   {
     "text": "Articles",
-    "url": "/articles.html",
+    "url": "/contents/articles",
     "icon": "fa-book"
   },
   {
     "text": "Diary",
-    "url": "/diary.html",
+    "url": "/contents/diary",
     "icon": "fa-calendar",
     "layout": "post"
   },
   {
     "text": "Github",
     "url": "https://github.com/VienosNotes",
-    "icon": "fa-github"
+    "icon": "fa-github",
+    "target": "_blank"
   },
   {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
+    "text": "Daashoku",
+    "url": "http://pages.vno.jp/Dasshoku/",
+    "icon": "fa-edit",
+    "target": "_blank"
+  },
+  {
+    "text": "Gakubuchi",
+    "url": "http://pages.vno.jp/Gakubuchi",
+    "icon": "fa-edit",
+    "target": "_blank"
   }
 ]

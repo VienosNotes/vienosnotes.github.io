@@ -1,18 +1,14 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
-  },
-  {
     "icon": "fa-twitter",
-    "link": ""
+    "link": "https://twitter.com/VienosNotes"
   },
   {
-    "icon": "fa-linkedin",
-    "link": ""
+    "icon": "fa-flickr",
+    "link": "https://flickr.com/photos/vienosnotes/"
   },
   {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "icon": "fa-github",
+    "link": "https://github.com/VienosNotes"
   }
 ]

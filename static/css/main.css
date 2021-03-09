@@ -174,3 +174,26 @@ footer {
 .pager li.active a {
     background: #720000; /*rgba(89, 148, 129, 0.3);*/
 }
+
+
+article {
+    padding: 1em 2em 1em 2em;
+    color: #200000;
+    line-height: 1.7em;
+    font-family: 'Palatino', 'Palatino Linotype', 'Noto Serif JP',  serif;
+}
+
+article h2 {
+    margin-top: 1.5em;
+    font-size: 1.5em;
+    color: #720000;
+    border-bottom: #720000 solid 1px;
+}
+
+article p {
+    padding-top: 0.5em;
+}
+
+article a {
+    font-weight: bold;
+}

@@ -1,3 +1,4 @@
+
 /**
  * Site header
  */
@@ -214,6 +215,7 @@
 }
 
 .post-content {
+
     margin-bottom: $spacing-unit;
 
     h2 {
@@ -238,5 +240,9 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
-    }
+    }    
+}
+
+article.post-content.well {
+    padding: 100000px !important;
 }
