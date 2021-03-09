@@ -2,7 +2,7 @@
   {
     "text": "Home",
     "url": "/",
-    "icon": "fa-home",
+    "icon": "fa-home"
   },
   {
     "text": "About",
@@ -12,13 +12,14 @@
   {
     "text": "Articles",
     "url": "/contents/articles",
-    "icon": "fa-book"
+    "icon": "fa-book",
+    "layout": "article"
   },
   {
     "text": "Diary",
     "url": "/contents/diary",
     "icon": "fa-calendar",
-    "layout": "post"
+    "layout": "diary"
   },
   {
     "text": "Github",
