@@ -8,7 +8,7 @@ about: 雨漏りの雫のような生活
 baseurl: ""
 url: "http://pages.vno.jp/"
 
-paginate: 2
+paginate: 10
 paginate_path: "/contents/diary/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
