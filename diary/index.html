@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Articles
+title: Diary
 ---
 <div class="well">
     <div class="list-group">
-      {% assign articles = site.posts | where:"category", "article" %}
-      {% for post in articles %}
+      {% assign diaries = site.posts | where:"layout", "diary" %}
+      {% for post in diaries %}
       <div class="list-group-item">
-
         <div class="row-action-primary">
           <i class="fa fa-sticky-note"></i>
         </div>

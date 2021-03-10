@@ -12,4 +12,14 @@ paginate: 10
 paginate_path: "/contents/diary/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
-category-list: [diary, article]
+category-list: [photo, music, audio, tech, mtg]
+
+exclude:
+  - .git
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
+  - _config.yml
+  - _layouts
+  - params.json
+  - vendor

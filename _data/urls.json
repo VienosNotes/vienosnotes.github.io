@@ -11,13 +11,13 @@
   },
   {
     "text": "Articles",
-    "url": "/contents/articles",
+    "url": "/articles",
     "icon": "fa-book",
     "layout": "article"
   },
   {
     "text": "Diary",
-    "url": "/contents/diary",
+    "url": "/diary",
     "icon": "fa-calendar",
     "layout": "diary"
   },
