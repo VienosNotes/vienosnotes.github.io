@@ -27,8 +27,6 @@ tags: PENTAX
 
 わたしは普段カメラをもってぶらついて、ふと目にとまる何かがあれば足を止めてファインダーを覗く…というスタイルで写真を撮っている。そのシャッターを切った瞬間に感じた印象―――それは例えば色あせた神社に漂うノスタルジーであったり、久々に訪れた旧居が朽ち果てつつある感傷だったり―――そういったエモーショナルな記憶をその場で写真に焼き込めるのがカスタムイメージの楽しさだと思う。
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/vienosnotes/51730472122/in/dateposted/" title="Masked Gargoyle"><img src="https://live.staticflickr.com/65535/51730472122_7f0c8feb0f_c.jpg" width="533" height="800" alt="Masked Gargoyle"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/vienosnotes/52022016263/in/dateposted/" title="IMGP8355"><img src="https://live.staticflickr.com/65535/52022016263_834782e90f_c.jpg" width="800" height="533" alt="IMGP8355"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 もっと軟弱な話をすると、カスタムイメージありきで風景を見ることで写真が撮りやすくなるという実感もある。散歩していると「これは銀残しが映えそうな風景だな」とか「これは里びで渋く仕上げたい景色だな」なんて考えが浮かんで写真を撮ることもある。これではカメラに写真を撮らされているような気もするが、どちらにせよ自分の中ではアンテナが高くなっていることに変わりはない。共感はしてもらえないかもしれないが…。
