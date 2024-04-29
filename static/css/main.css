@@ -190,6 +190,11 @@ article h2 {
     border-bottom: #720000 solid 1px;
 }
 
+article h3 {
+    font-size: 1.2em;
+    color: #720000;
+}
+
 article p {
     padding-top: 0.5em;
 }
