@@ -49,4 +49,6 @@ Fコードって1フレットだと幅が広くて指がめちゃきついんだ
 
 このブログは Jekyll なるブログエンジンで作成しているのだが、必要な Ruby 環境を Apple Silicon の MacBook に構築するのにめちゃくちゃ手間取ってしまった。rb env でもうまくいかなかったが、以下の記事に従って Xcode commandline tools をインストールし直すことでうまくいった。この記事は20分で書き終わったのにアップロードするまでに2時間以上かかってしまった…
 
+[macでRubyをビルドしたときにRUBY_FUNCTION_NAME_STRINGのerrorが出た場合](https://blog.nksm.in.net/2022-03-01-macでRubyをビルドしたときにRUBY_FUNCTION_NAME_STRINGのerrorが出た場合/)
+
 おしまい
