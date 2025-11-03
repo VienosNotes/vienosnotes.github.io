@@ -1,7 +1,7 @@
 ---
 layout: diary
 title:  "ひさしぶりにギターをさわった"
-category: diary
+category:
 tags: guitar
 ---
 
