@@ -1,8 +1,8 @@
 ---
 layout: diary
 title:  "ひさしぶりにギターをさわった"
-category: diary
-tags: guitar
+category:
+tags:
 ---
 
 今週は仕事でけっこうトラブルがあってバタバタしてたんだけど、とりあえずは金曜にはかたづいたので気持ちよく3連休を迎えられた。
