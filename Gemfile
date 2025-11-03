@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 # Specify Ruby version if you use one (uncomment and set if needed)
 # ruby '2.7.6'
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages"
 
 # Keep plugins in a group so Jekyll-related gems are obvious
 
