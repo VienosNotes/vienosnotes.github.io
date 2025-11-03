@@ -51,4 +51,9 @@ Fコードって1フレットだと幅が広くて指がめちゃきついんだ
 
 [macでRubyをビルドしたときにRUBY_FUNCTION_NAME_STRINGのerrorが出た場合](https://blog.nksm.in.net/2022-03-01-macでRubyをビルドしたときにRUBY_FUNCTION_NAME_STRINGのerrorが出た場合/)
 
+そして Github Pages のタイムゾーンは UTC らしく、単純にファイル名を当日にしてしまうと未来の日付なのでビルドされないとかいうクソ仕様があるので注意しましょう。ちゃんとビルドログ見ような。
+
+[![Image from Gyazo](https://i.gyazo.com/b335e1690feee5f62e16f58b2731608b.png)](https://gyazo.com/b335e1690feee5f62e16f58b2731608b)
+
+
 おしまい
