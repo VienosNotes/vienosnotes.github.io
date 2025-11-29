@@ -7,7 +7,9 @@ tags:
 
 ## ローゼンメイデンの話
 
-ローゼンメイデンが25周年らしい。Kindle でも25円というとんでもないセールをやっているようだ。これを機に、久しぶりにローゼンメイデンを読み直してみることにした。
+ローゼンメイデンの作者 PEACH-PIT が25周年らしい。Kindle でも25円というとんでもないセールをやっているようだ。これを機に、久しぶりにローゼンメイデンを読み直してみることにした。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">／<br>PEACH-PIT25周年記念🍑<br>『Rozen Maiden』全7巻&amp;<br>ローゼンメイデン』全10巻 <br>【25円・250円】割引キャンペーン🌹<br>＼<br>各電子ストアにて本日スタート✨<br>この機会をお見逃しなく‼️<a href="https://twitter.com/hashtag/%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#ローゼンメイデン</a><a href="https://twitter.com/hashtag/RozenMaiden?src=hash&amp;ref_src=twsrc%5Etfw">#RozenMaiden</a><a href="https://twitter.com/hashtag/peachpit25th?src=hash&amp;ref_src=twsrc%5Etfw">#peachpit25th</a><br>▼この順番にお読みください▼ <a href="https://t.co/vNOdFSSkN3">pic.twitter.com/vNOdFSSkN3</a></p>&mdash; ローゼンメイデン漫画公式🌹愛蔵版全7巻発売中 (@rozen_official) <a href="https://twitter.com/rozen_official/status/1992620781369774480?ref_src=twsrc%5Etfw">November 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 わたしとローゼンメイデンの付き合いはかなり古く、いまファーストシーズンと呼ばれているシリーズの初版の最終巻をリアルタイムで読んだ世代だ。可愛らしい絵柄と卓越したキャラクターデザインに重いストーリー、当時のわたしはローゼンメイデンに心酔していたと言っていい。多感な時期のわたしは翠星石に惹かれ、心と性癖を大いに狂わされた。まだ「推し」なんて言葉は使われていなかったが、読者はみな各々のお気に入りのドールに狂わされていたと思う。なかでも水銀燈の人気は別格だったように記憶している。
 
