@@ -16,7 +16,7 @@ tags: music
 
 ## Another Mind - 上原ひろみ （2003, TELARC）
 
-ということでアドベントカレンダー今日の1枚は上原ひろみのファースト・アルバム「(Another Mind)[https://amzn.asia/d/32vbrQe]」。どういうジャンルに入れるのかはけっこう難しいところだけどフュージョンとかになるんだろうか？それにしてはプログレッシブすぎる気もするが。プレイスタイルを一言で表すなら「破壊」。
+ということでアドベントカレンダー今日の1枚は上原ひろみのファースト・アルバム「 (Another Mind)[https://amzn.asia/d/32vbrQe] 」。どういうジャンルに入れるのかはけっこう難しいところだけどフュージョンとかになるんだろうか？それにしてはプログレッシブすぎる気もするが。プレイスタイルを一言で表すなら「破壊」。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=xD7PmpnagytFYHLu&amp;list=PLfJndz0utgOOUC0_N9L7wv7lvy7VWc2Mq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
