@@ -27,3 +27,8 @@ tags: music
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/kUXzZWBEJFE?si=0YsP7OO693otDA7a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## 寿司の話
+
+バリウムから体調が戻ってきたのでスシローで豪遊しました。やはり富山県民はブリを食べないと冬が始まらない。
+
+[![Image from Gyazo](https://i.gyazo.com/4353f95ef3dca5356f4052f55168ab6e.jpg)](https://gyazo.com/4353f95ef3dca5356f4052f55168ab6e)
