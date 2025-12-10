@@ -1,6 +1,6 @@
 ---
 layout: diary
-title:  "プログラミングはつらいよ（プログラミング意外の部分が）"
+title:  "プログラミングはつらいよ（プログラミング以外の部分が）"
 category: diary
 tags: music
 ---
