@@ -27,14 +27,16 @@ tags: music
 
 今日の一枚は玉置浩二の「CAFE JAPAN」。本人が「音楽っていつだって本当に優しいと思うんですよね」というようなことをライブで言っていたけれども。それを体現するような一枚。自分の人生でも他人の人生であっても生きているといろんなことがあって、この世界でいろんな人が生きて暮らしていることに対する愛おしさというか、そういう優しさが感じられる。自分でも何言ってるのかよくわかりませんね。昔こんなことがあったなあとか、あのときは苦しかったなあとか、あの人のこと好きだったなあとか、思い出すと泣けてくるような「人生のきらめき」みたいなものをそっと集めたような作品だと思う。
 
+
+[YouTube Music - CAFE JAPAN](https://music.youtube.com/playlist?list=OLAK5uy_lqpZTADu0ukRmQDDY3vMVuh83b-Z9L8LQ&si=LNy9LWVBE2EUDUhK)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=16yaX_ZZ-EUSfntW&amp;list=OLAK5uy_kwyQGQiFoqh0U_OZ3BRyizEzK93-p2fqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### 田園
 
 玉置浩二の代表作その1。本人が精神的に苦しかった時期がモチーフになっているらしい。葛藤や何もできない焦燥感に駆られて不安定になることもあるけど、それでも生きていくんだ、今はそれでいいんだというメッセージ。「僕がいるんだ 君もいるんだ みんなここにいる 愛はどこへもいかない」
-
-[YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_lqpZTADu0ukRmQDDY3vMVuh83b-Z9L8LQ&si=LNy9LWVBE2EUDUhK)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j5O3kKfICXc?si=bOAsda0zZubxWGBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
