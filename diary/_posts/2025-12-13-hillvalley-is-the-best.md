@@ -30,7 +30,7 @@ tags: music
 [YouTube Music - Good To Be...](https://music.youtube.com/playlist?list=OLAK5uy_lSPd93ByaxTC0pkoiCxEpXnRGmisqjS14&si=XJ6VJ1zwxGZag1NA)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=yMGuh4SgeKLEVqO_&amp;list=OLAK5uy_nLHv-F2Casc0SglRkPrsQW-ZMrOKal-yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>SPd93ByaxTC0pkoiCxEpXnRGmisqjS14&si=ZSkCB9Ae9R7iFAah)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=yMGuh4SgeKLEVqO_&amp;list=OLAK5uy_nLHv-F2Casc0SglRkPrsQW-ZMrOKal-yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Good To Be
 
