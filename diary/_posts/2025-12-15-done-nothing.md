@@ -30,7 +30,7 @@ tags: music
 
 ### My Father's Eyes
 
-クラプトンの父親は軍人だったらしく、クラプトンは父親の顔を知らずに育ったらしい。この曲では、会ったこともない自分の父親と自分の関係、時間が経って父親となった自分と子供の関係、そして子供を事故で失い父親ではなくなった自分…という展開が歌われている。見たことがない父親の目、それと同じものがいつのまにか自分の中に芽生えていることに気づく。そして子を失った今、その「父親の目」はどこを見ているのか。けっこう悲痛なテーマなんだけど、曲としては悲しみを称えながらも抑制的なトーンで歌われていて「巡礼」の重さを感じる。
+クラプトンの父親は軍人だったらしく、クラプトンは父親の顔を知らずに育ったらしい。この曲では、会ったこともない自分の父親と自分の関係、時間が経って父親となった自分と子供の関係、そして子供を事故で失い父親ではなくなった自分…という展開が歌われている。見たことがない父親の目、それと同じものがいつのまにか自分の中に芽生えていることに気づく。そして子を失った今、その「父親の目」はどこを見ているのか。けっこう悲痛なテーマなんだけど、曲としては悲しみを湛えながらも抑制的なトーンで歌われていて「巡礼」の重さを感じる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bocDpFVhyDw?si=zI-m-Ij_PD1IUVCy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
