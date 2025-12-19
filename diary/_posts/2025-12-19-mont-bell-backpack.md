@@ -24,6 +24,8 @@ tags: music
 
 2日続けてのコンセプトアルバムだが、ファンタジー世界が舞台だけどこちらは歌モノ。霜月はるか本人によって世界設定がかなり作り込まれており、本作をはじめ続編にあたるアルバムがあったり、コミカライズされたりなどメディアミックスもしている。ストーリーに登場するアリアという種族が喋る架空の言語の歌詞があったりするなど、霜月はるかが得意とする神秘的なコーラスも相まって本格的ファンタジーの世界が楽しめる。昨日の虹伝説が映画ならこちらはファンタジー RPG のイメージソングという感じで、ケルティックな雰囲気が冒険心をくすぐる。
 
+[YouTube Music - ティンダーリアの種](https://music.youtube.com/playlist?list=OLAK5uy_nkR4FVZKqBkH8AN6k6urdaoLcakV9KX9I&si=25E6oGgyaS8rTekS)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qkv_ItmsGTd3bx23&amp;list=OLAK5uy_lnog2B6xnq1qzh6moHzN7KKenqy4LPDX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 広い世界の欠片
