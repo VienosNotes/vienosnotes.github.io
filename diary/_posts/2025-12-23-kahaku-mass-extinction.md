@@ -35,7 +35,7 @@ tags: music
 
 [![Image from Gyazo](https://i.gyazo.com/4ceec8cf402d1d88a3f1def458f1f2e6.jpg)](https://gyazo.com/4ceec8cf402d1d88a3f1def458f1f2e6)
 
-## Invisible Thread - John Surman (2018, ECM)
+## Invisible Threads - John Surman (2018, ECM)
 
 今日の一枚はジョン・サーマンの「Invisible Threads」。今日は出張のために早起きしたせいでめちゃくちゃ眠いので、よく眠れそうなやつを。ジャンルとしてはジャズなんだけど、あんまりスウィングしたりアドリブが走ったりみたいなのはなくて、ECM らしい（？）静かで沈むような音楽。なんかクラシックの香りもする。あとジャケがいい。
 
