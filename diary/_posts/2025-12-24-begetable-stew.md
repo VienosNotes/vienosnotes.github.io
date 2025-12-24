@@ -26,8 +26,9 @@ tags: music
 
 このアルバムでは、クリスマスの伝統的な歌や、冬やクリスマスにまつわる曲を極上のスムースジャズとしてカバーしている。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=2ZqstQ7OLi3PzQ8C&amp;list=OLAK5uy_noQn03latzGkZqo_9uaQguNFF0WhMOy2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[YouTube Music - Snowbound](https://music.youtube.com/playlist?list=OLAK5uy_lafdGl_zkvxGOiGSvXqhtk613A8r3umps&si=dnIqAf2WYrgQYYQ7)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=2ZqstQ7OLi3PzQ8C&amp;list=OLAK5uy_noQn03latzGkZqo_9uaQguNFF0WhMOy2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Snowbound
 
