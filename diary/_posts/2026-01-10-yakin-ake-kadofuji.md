@@ -20,7 +20,7 @@ tags:
 
 どうもクリーントーンでセルフ粗探ししながら練習してるとヘタクソさを自覚してしまい気が滅入るので、ガンガン歪ませて KATANA MINI で鳴らしながら練習している。ついでに DAW で簡単なドラムパターンを作って聞きながら弾いていると「音楽やってる」感がかなり得られて楽しいことがわかったので、しばらくはこれで練習することにしよう。
 
-どうやら録音して自分で聞いたり人に聞いてもらったりするのが上達への道らしいので、定期的に録音してツイッターに上げて行くことにしている。いつかまともに弾けるようになって聞き直すと「なんだこれヘタクソすぎるな」と笑える日が来ることを祈って…。
+どうやら録音して自分で聞いたり人に聞いてもらったりするのが上達への道らしいので、定期的に録音してツイッターに上げていくことにしている。いつかまともに弾けるようになって聞き直すと「なんだこれヘタクソすぎるな」と笑える日が来ることを祈って…。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ドラムパターンつくって流しながら一緒に弾くとかなり楽しいということがわかってきた <a href="https://t.co/wqZyIu0f5k">pic.twitter.com/wqZyIu0f5k</a></p>&mdash; D.Aoki (Amamori） (@VienosNotes) <a href="https://twitter.com/VienosNotes/status/2010008514878644415?ref_src=twsrc%5Etfw">January 10, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
