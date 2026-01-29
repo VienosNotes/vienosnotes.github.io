@@ -1,4 +1,3 @@
-
 ---
 layout: diary
 title: "最近聞いたすごい曲"
