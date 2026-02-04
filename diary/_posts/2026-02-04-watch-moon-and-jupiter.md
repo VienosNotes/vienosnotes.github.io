@@ -34,3 +34,8 @@ tags:
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【皆既月食まであと1か月】<br>3月3日は皆既月食。18:50～22:18と見やすい時間帯です。晴天を祈りつつ、見逃さないようにしましょう。（写真は2022/11/8三鷹にて撮影、左下に天王星）<a href="https://t.co/6n552kq0dh">https://t.co/6n552kq0dh</a> <a href="https://t.co/urfemYin3G">pic.twitter.com/urfemYin3G</a></p>&mdash; 国立天文台 アルマ望遠鏡 (@ALMA_Japan) <a href="https://twitter.com/ALMA_Japan/status/2018585172120350898?ref_src=twsrc%5Etfw">February 3, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Under A Glass Moon - Dream Theater
+
+イントロのギターが冷たく荘厳な月の光を感じさせる一曲。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4KcTYTZRqtQ?si=8xa9A08xAYuR20wu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
